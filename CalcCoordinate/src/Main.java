@@ -89,7 +89,7 @@ public class Main {
     }
 
     /**
-     * 
+     *
      */
     static class Command {
         char direction;
