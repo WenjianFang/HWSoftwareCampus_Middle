@@ -40,7 +40,7 @@ public class Main {
     }
 
     /**
-     * 
+     *
      * @param publicPassword
      * @return
      */
