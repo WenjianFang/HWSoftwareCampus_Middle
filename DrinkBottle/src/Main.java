@@ -43,7 +43,7 @@ public class Main {
     }
 
     /**
-     * 
+     *
      * @param bottleNum
      * @return
      */
