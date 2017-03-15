@@ -18,7 +18,7 @@ public class Main {
     }
 
     /**
-     * 
+     *
      * @param inputStr
      * @return
      */
