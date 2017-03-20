@@ -41,7 +41,7 @@ public class Main {
     }
 
     /**
-     * 
+     *
      * @param str1
      * @param str2
      * @return
